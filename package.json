@@ -1,0 +1,15 @@
+{
+  "name": "estudos-sobre-api",
+  "version": "1.0.0",
+  "description": "- API\r   Cliente (Client)\r   Garçon (pedidos, levar seus pedidos, para a cozinha) (API)\r   Cozinha (Server)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
